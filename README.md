@@ -1,5 +1,4 @@
-# Eclipse_Derby_Workspace
-Eclipse_Derby_WorkspaceDerby-IJ source code modification description:
+# Eclipse_Derby_WorkspaceDerby-IJ source code modification description:
 
 Modified IJ source code to connect to db automatically with a hard coded connect-string using ij.bat or by running a script myscript.sql with the connect-string in it and then switch to the System.in input to interact with the db through ij cmd prompt using start_ij.bat. All files except for bin.7z and lib.7z belong to the Eclipse workspace. Mouse over bin.7z and lib.7z for more info.
 
