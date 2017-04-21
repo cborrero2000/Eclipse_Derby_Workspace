@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="java/shared"/>
+	<classpathentry kind="src" path="java/storeless"/>
+	<classpathentry kind="src" path="java/optional"/>
+	<classpathentry kind="src" path="java/demo"/>
+	<classpathentry kind="src" path="java/stubs"/>
+	<classpathentry kind="src" path="java/drda"/>
+	<classpathentry kind="src" path="java/testing"/>
+	<classpathentry kind="src" path="java/build"/>
+	<classpathentry kind="src" path="java/tools"/>
+	<classpathentry kind="src" path="java/client"/>
+	<classpathentry kind="src" path="java/engine"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_121"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="757" key="DifferencesDialog.size.x"/>
+	<item value="222" key="DifferencesDialog.location.y"/>
+	<item value="754" key="ExportRemoteFolderDialog.location.x"/>
+	<item value="322" key="ExportRemoteFolderDialog.location.y"/>
+	<item value="217" key="HistoryTableProvider.SVNHistoryPage.Author"/>
+	<item value="109" key="HistoryTableProvider.SVNHistoryPage.Revision"/>
+	<item value="440" key="DifferencesDialog.size.y"/>
+	<item value="412" key="ExportRemoteFolderDialog.size.x"/>
+	<item value="290" key="ExportRemoteFolderDialog.size.y"/>
+	<item value="542" key="HistoryTableProvider.SVNHistoryPage.Comment"/>
+	<item value="582" key="DifferencesDialog.location.x"/>
+	<item value="272" key="HistoryTableProvider.SVNHistoryPage.Date"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://svn.apache.org/repos/asf/db/derby/code"/>
+		</list>
+	</section>
+</section>
